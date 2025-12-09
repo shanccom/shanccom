@@ -3,7 +3,7 @@
 
 ### `$ whoami`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=231877F2&center=true&vCenter=true&random=false&width=600&lines=Hola+soy+Sergio!;Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+la+Ciberseguridad;Desarrollador+Full+Stack;Siempre+aprendiendo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B28DFF&center=true&vCenter=true&random=false&width=600&lines=Hola+soy+Sergio!;Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+la+Ciberseguridad;Desarrollador+Full+Stack;Siempre+aprendiendo" alt="Typing SVG" />
 
 ```bash
 > Estudiante de Ingeniería de Sistemas @ UNSA
